@@ -40,3 +40,6 @@ Responsive choice
 I used a horizontal scroll container with a sticky name column. Every column stays available on phones, and the name stays on screen so each row is easy to identify.
 
 ![alt text](image.png)
+<img width="917" height="430" alt="Screenshot 2026-11-25 195333" src="https://github.com/user-attachments/assets/b981daf8-cbbb-451e-80b1-0b5ce7e02d38" />
+<img width="428" height="380" alt="Screenshot 2026-11-25 194445" src="https://github.com/user-attachments/assets/06db2a49-64f5-4591-bacd-4493969483b1" />
+
