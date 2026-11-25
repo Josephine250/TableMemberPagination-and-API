@@ -42,4 +42,8 @@ I used a horizontal scroll container with a sticky name column. Every column sta
 ![alt text](image.png)
 <img width="917" height="430" alt="Screenshot 2026-11-25 195333" src="https://github.com/user-attachments/assets/b981daf8-cbbb-451e-80b1-0b5ce7e02d38" />
 <img width="428" height="380" alt="Screenshot 2026-11-25 194445" src="https://github.com/user-attachments/assets/06db2a49-64f5-4591-bacd-4493969483b1" />
+<img width="549" height="383" alt="Screenshot 2026-11-25 194638" src="https://github.com/user-attachments/assets/5c6f2292-9954-4d73-b8ff-631b634a5bb6" />
+<img width="335" height="418" alt="Screenshot 2026-11-25 194612" src="https://github.com/user-attachments/assets/774deb54-fe69-4ecb-aa0f-a275202a9992" />
+
+
 
